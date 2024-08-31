@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #declearing of variable
-PERSON1=Lakshith  #on space b/w = and value
-PERSON2=Chandra
+PERSON1=$1  #on space b/w = and value
+PERSON2=$2
 
 #referring variable
 echo "$PERSON1:: Hello $PERSON2, How are you?"
