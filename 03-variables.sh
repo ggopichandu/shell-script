@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #declearing of variable
-PERSON1=Lakshith  #on space b/w = and value
+PERSON1=Lakshith  #on space b/w variable and value
 PERSON2=Chandra
 
 #referring variable
